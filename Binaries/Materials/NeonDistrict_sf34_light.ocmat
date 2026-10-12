@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Sci-fi stairs with neon backlighting (4 floors)" by tekuto1s (@tekuto1s), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-stairs-with-neon-backlighting-4-floors-ef4652f0d660445783fa9037c75e4ce2
+NAME NeonDistrict_sf34_light
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.15 = about 5,000 cd/m2:
+# blue neon backlight strips along the tread edges and outer stringer (Object_6): flat emissiveFactor (0.0, 0.318, 1.0), no emissive texture, no base colour texture. Luminance of the colour is only 0.30, so at 0.15 it comes out at about 1,500 cd/m2, a normal neon tube.
+PARAM emissiveFactor 0 0.04765 0.15
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

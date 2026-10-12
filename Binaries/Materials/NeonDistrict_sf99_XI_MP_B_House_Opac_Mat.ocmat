@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "House" by local.yany (@local.yany), CC BY 4.0 -- https://sketchfab.com/3d-models/house-d3f85975cfad4b24bf14175f4ff3269d
+NAME NeonDistrict_sf99_XI_MP_B_House_Opac_Mat
+SHADER standard
+# Cut-out, not blended: the alpha is a mask (windows, laundry, grilles); blending sorts badly and
+# is invisible to GI.
+BLEND masked 0.5
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.00457144
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf99_XI_MP_B_House_Opac_Mat_baseColor.png} uv0 sRGB

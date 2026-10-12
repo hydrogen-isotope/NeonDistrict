@@ -1,0 +1,27 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Sky Cab" by Helsingr (@helsingr), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-cab-2322696582de46e2ba816352ff243337
+NAME NeonDistrict_sf39_CabOther
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.06 = about 2,000 cd/m2:
+# roof TAXI sign (cream panel with black letters on both faces; letters are dark in the emissive map) and two small cream lamp lenses in the same atlas.
+PARAM emissiveFactor 0.06 0.06 0.06
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/CabOther_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/CabOther_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/CabOther_normal.png} uv0 normal
+TEX emissive {path:Textures/NeonDistrict/CabOther_emissive.png} uv0 sRGB

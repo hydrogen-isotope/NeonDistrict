@@ -1,0 +1,28 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Cyberpunk Diner Sign (Japanese)" by LukeMarsh201, CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-diner-sign-japanese-6ffce0f168534501bdd9199847d57831
+NAME NeonDistrict_sf12_Writing
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.15 = about 5,000 cd/m2:
+# katakana ダイナー letters (Object_5 flat underlay and Object_6 raised letters), electric blue, flat colour linear ~0,0.47,1.0.
+PARAM emissiveFactor 0.15 0.15 0.15
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf12_Image_0.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf12_Image_12.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf12_Image_14.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf12_Image_12.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/sf12_Image_13.png} uv0 sRGB

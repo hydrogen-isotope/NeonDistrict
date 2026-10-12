@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Futuristic background buildings kit" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-background-buildings-kit-2d5727126bc441ce88dba3a891857876
+NAME NeonDistrict_sf134_GL_basic_magic_glass
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.903545 0.903545 0.903545 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.91591
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# red emissive glass panels on JJ_001/002/003/004.
+PARAM emissiveFactor 0.03 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

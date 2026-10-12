@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Modern Office Building" by Bl4ckGh0st (@Bl4ckGh0st), CC BY 4.0 -- https://sketchfab.com/3d-models/modern-office-building-c6b0308c2ebb4842ae49aff70ce14ad0
+NAME NeonDistrict_sf96_Marble2
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.32762
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf96_Marble2_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf96_BlackStone_specularf0.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf96_Marble2_normal.png} uv0 normal

@@ -1,0 +1,29 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Procedural Hong Kong building" by uday (udayjeet), CC BY 4.0 -- https://sketchfab.com/3d-models/procedural-hong-kong-building-528a732e84c44fd49c4726f341014a23
+NAME NeonDistrict_nd_hk_facade_ochre_h05
+SHADER standard
+# Cut-out, not blended: the alpha is a mask (windows, laundry, grilles); blending sorts badly and
+# is invisible to GI.
+BLEND masked 0.5
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# HK tenement rooms seen through the windows, variant h05 (amber mood, 4 of 9 room cards lit): a lit card averages about 90 cd/m2.
+PARAM emissiveFactor 0.03 0.03 0.03
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/floorpaint_ochre-floor_alpha_png.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/floor_Metallic_png-floor_Roughness_png.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/floor_Normal_OpenGL.png} uv0 normal
+TEX emissive {path:Textures/NeonDistrict/hk_emis_h05.png} uv0 sRGB

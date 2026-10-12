@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Warehouse FBX Model Free" by Nicholas-3D (@Nicholas01), CC BY 4.0 -- https://sketchfab.com/3d-models/warehouse-fbx-model-free-daa7fd3ff88945298d00045ca40a4c03
+NAME NeonDistrict_sf51_Emissive
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.15 = about 5,000 cd/m2:
+# the 44 wall-side light bands (22 per side wall, 0.28 m tall); same material as the ceiling strips so the strength is shared and 0.15 works for both.
+PARAM emissiveFactor 0.05802 0.1176 0.15
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

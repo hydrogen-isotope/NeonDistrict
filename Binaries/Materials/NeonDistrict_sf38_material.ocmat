@@ -1,0 +1,28 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Flying Car" by skartemka (@skartemka), CC BY 4.0 -- https://sketchfab.com/3d-models/flying-car-d0efc1fe6c5c419896fe239d85c5e589
+NAME NeonDistrict_sf38_material
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.12 = about 4,000 cd/m2:
+# hover thruster cans: eight cyan grille panels (about 0.4 x 0.3 m each, 4 per side; emissive verts at z -0.72 to -0.41 m and y -2.6 to +1.7 m in source) glow cyan (about 0.5, 1.0, 1.0). Also two thin dim cyan slashes on the body panels. The whole car is one opaque material so the strength is shared..
+PARAM emissiveFactor 0.12 0.12 0.12
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/material_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/material_metallicRoughness-3.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/material_normal-3.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/material_metallicRoughness-3.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/Material_Emissive.png} uv0 sRGB

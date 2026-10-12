@@ -1,0 +1,27 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Night market stall" by Allen Tseng (@alen60303), CC BY 4.0 -- https://sketchfab.com/3d-models/night-market-stall-ffaabf87bb024b48b240909632e0b524
+NAME NeonDistrict_sf60_Material_007
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.6
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.1 = about 3,330 cd/m2:
+# two pendant light bulbs (0.18 x 0.18 x 0.23 m) hanging from the awning at the counter front, warm yellow-white bulb art with a painted glow; no emissive map in the file, so drive emissive from this material's albedo. Real lamps: add a warm 2700 K point light at each..
+PARAM emissiveFactor 0.1 0.1 0.1
+# THE LIGHT IT CASTS: every draw with this material is a small sphere light (at most 32 lit per
+# frame); 1 multiplies what its own glow over its size physically casts.
+PARAM lightIntensity 1
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Material_001_baseColor.png} uv0 sRGB

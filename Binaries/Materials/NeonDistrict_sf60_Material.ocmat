@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Night market stall" by Allen Tseng (@alen60303), CC BY 4.0 -- https://sketchfab.com/3d-models/night-market-stall-ffaabf87bb024b48b240909632e0b524
+NAME NeonDistrict_sf60_Material
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.12 = about 4,000 cd/m2:
+# painted-in blue screen glow on the main structure: the large roof TV sign (z 5.1-6.1 m) and three small roof monitors (z about 5.0-5.5 m), plus blue window panes and thin blue neon strips on the tower. There is no emissive map, the glow is baked in the albedo (saturated blue about RGB 40/120/255 with light-cyan glyphs); build an emissive mask from those saturated-blue pixels only, the rest of the material is dark rusty metal and must stay unlit..
+PARAM emissiveFactor 0.12 0.12 0.12
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/material_baseColor.png} uv0 sRGB

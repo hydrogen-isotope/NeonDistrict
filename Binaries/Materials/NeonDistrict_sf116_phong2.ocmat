@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Japanese house 2.0" by annzep (@annzep), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-house-2-0-5ae0121e33b54b7789c6b9113da444bf
+NAME NeonDistrict_sf116_phong2
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.870967 0.145711 0.12171 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.894263
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# red vertical banner letters on the izakaya wall.
+PARAM emissiveFactor 0.03 0.005429 0.004935
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

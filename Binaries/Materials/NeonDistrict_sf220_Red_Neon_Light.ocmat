@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "SKVOT Lesson / Low-Poly Futuristic Building" by jsandorblendercourse (@jsandorblendercourse), CC BY 4.0 -- https://sketchfab.com/3d-models/skvot-lesson-low-poly-futuristic-building-38440b9950304dfd99f92d5eb4f04d8c
+NAME NeonDistrict_sf220_Red_Neon_Light
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.491913 0.0363002 0.0363002 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.138667
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.08 = about 2,670 cd/m2:
+# door edge strips and neon tubes.
+PARAM emissiveFactor 0.08 0.0002253 0.0006399
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

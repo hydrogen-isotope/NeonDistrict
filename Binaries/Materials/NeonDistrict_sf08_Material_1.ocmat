@@ -1,0 +1,28 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Japanese sign board 003" by sa6, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-sign-board-003-66a9f233bbaa43e0a91f1eb9d8353356
+NAME NeonDistrict_sf08_Material_1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.1 = about 3,330 cd/m2:
+# backlit lightbox faces: red panel, yellow border and white kanji on both large faces (emission map is the printed art); frame, sides and arms are black in the emission map.
+PARAM emissiveFactor 0.1 0.1 0.1
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_0.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Image_1-1.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/Image_3-1.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/Image_1-1.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/Image_2.jpg} uv0 sRGB

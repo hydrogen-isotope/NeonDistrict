@@ -1,0 +1,26 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: Poly Haven (CC0) or generated for this level
+NAME NeonDistrict_security_light_bulb
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.25 = about 8,330 cd/m2:
+# lamp glass / tube, about 8,300 cd/m2.
+PARAM emissiveFactor 0.25 0.22 0.175
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/security_light_diff_1k.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/security_light_arm_1k.jpg} uv0 linear
+TEX normal {path:Textures/NeonDistrict/security_light_nor_gl_1k.jpg} uv0 normal

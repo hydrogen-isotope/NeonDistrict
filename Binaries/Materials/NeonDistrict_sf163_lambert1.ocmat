@@ -1,0 +1,28 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "cyber noddle stand 2" by Finn Tran (@Yoolootran), CC BY 4.0 -- https://sketchfab.com/3d-models/cyber-noddle-stand-2-f019fa3323f74d2fa170ff236d6839d9
+NAME NeonDistrict_sf163_lambert1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.08 = about 2,670 cd/m2:
+# NOODLES neon lettering, window and stall glow (lambert1_emissive map at factor 1).
+PARAM emissiveFactor 0.08 0.08 0.08
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/lambert1_baseColor.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/lambert1_metallicRoughness-1.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/lambert1_normal-1.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/lambert1_metallicRoughness-1.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/lambert1_emissive-1.jpg} uv0 sRGB

@@ -1,0 +1,26 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Asian building piece 1" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-building-piece-1-a541c1abd5a148e396ebc54de8b7ef85
+NAME NeonDistrict_sf155_banner
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.08 = about 2,670 cd/m2:
+# vertical blade sign on the front corner, neon candidate.
+PARAM emissiveFactor 0.08 0.08 0.08
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf155_card_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf155_card_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf155_card_normal.png} uv0 normal

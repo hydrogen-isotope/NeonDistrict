@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Alley Asset" by KeyChqn (@KeyChqn), CC BY 4.0 -- https://sketchfab.com/3d-models/alley-asset-aeaa522bdcf347dc9994d559213dd42e
+NAME NeonDistrict_sf76_light_emi
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.903545 0.903545 0.903545 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.821115
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.2 = about 6,670 cd/m2:
+# the light strip on the underside of the lamp housing above the back door (0.96 x 0.135 m; the file gives it a flat 0.8 grey baseColor and NO emissive factor, so the glow must be set explicitly at install). Cool fluorescent white, colour about (0.85, 0.95, 1.0). It is a real lamp: a small cool-white fill light (about 2-3 m radius, low intensity) at the strip is worth adding; the source has no light object (the 'Point' node in the glTF is an empty)..
+PARAM emissiveFactor 0.2 0.2 0.2
+# THE LIGHT IT CASTS: every draw with this material is a small sphere light (at most 32 lit per
+# frame); 1 multiplies what its own glow over its size physically casts.
+PARAM lightIntensity 1
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

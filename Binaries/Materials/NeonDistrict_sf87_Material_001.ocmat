@@ -1,0 +1,20 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "sci-fi building concept" by David06 (@David06), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-concept-ef51819f82974cf7805659058d5b4f59
+NAME NeonDistrict_sf87_Material_001
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.508117 0.508117 0.508117 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.163636
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

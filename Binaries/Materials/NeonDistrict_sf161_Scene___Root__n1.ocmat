@@ -1,0 +1,30 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Izakaya - Low Poly Building" by BenMaher (@BenMaher), CC BY 4.0 -- https://sketchfab.com/3d-models/izakaya-low-poly-building-3f43e5429171408e9bd19553ea813364
+NAME NeonDistrict_sf161_Scene___Root__n1
+SHADER standard
+# Cut-out, not blended: the alpha is a mask (windows, laundry, grilles); blending sorts badly and
+# is invisible to GI.
+BLEND masked 0.5
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# night windows: rooms painted into the facade texture, about 1,000 cd/m2 at a full-white texel.
+PARAM emissiveFactor 0.03 0.03 0.03
+PARAM normalScale 0.608977
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf161_Scene___Root_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf161_Scene___Root_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf161_Scene___Root_normal.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf161_Scene___Root_metallicRoughness.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/sf161_Scene___Root_e1.png} uv0 sRGB

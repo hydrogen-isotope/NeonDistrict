@@ -1,0 +1,20 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Helix Bridge" by Sengchor (@Sengchor), CC BY 4.0 -- https://sketchfab.com/3d-models/helix-bridge-1221edc4c2454b29b3b6adcd6fdefb0e
+NAME NeonDistrict_sf57_Material_002
+SHADER standard
+BLEND translucent
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 0.2
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.6
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

@@ -1,0 +1,20 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Isosceles Highrise Concept" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/isosceles-highrise-concept-12ae31bfd03b40248f47e505ac41c901
+NAME NeonDistrict_sf188_glaze
+SHADER standard
+BLEND translucent
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.92592 0.92592 0.92592 0.109616
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.186415
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

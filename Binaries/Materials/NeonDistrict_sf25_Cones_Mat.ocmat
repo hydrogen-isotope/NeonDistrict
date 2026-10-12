@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Traffic Cones" by NotAnotherApocalypticCo. (@notanotherapocalypticco), CC BY 4.0 -- https://sketchfab.com/3d-models/traffic-cones-e03b1d2dfdc0416bb8324d15573ea60c
+NAME NeonDistrict_sf25_Cones_Mat
+SHADER standard
+BLEND opaque
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf25_Image_0.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf25_Image_1.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf25_Image_2.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf25_Image_1.png} uv0 linear

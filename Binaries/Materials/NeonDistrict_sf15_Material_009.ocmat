@@ -1,0 +1,20 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Vintage Chinese Neon Pedestrian Signals" by Signalrenders, CC BY 4.0 -- https://sketchfab.com/3d-models/vintage-chinese-neon-pedestrian-signals-d733eb9a02774dbd94a04738596edf10
+NAME NeonDistrict_sf15_Material_009
+SHADER standard
+BLEND translucent
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.903545 0.903545 0.903545 0.25
+PARAM metallicFactor 0
+PARAM roughnessFactor 0
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

@@ -1,0 +1,23 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Industrial Buildings Set - Low poly models" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/industrial-buildings-set-low-poly-models-e0b0d0342be24e6c923319991a2a4d3d
+NAME NeonDistrict_sf122_Industrial_Trim_FLR_1_Dif
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Industrial_Trim_FLR_1_Dif_baseColor.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Industrial_Trim_FLR_1_Dif_metallicRoughness.png} uv0 linear

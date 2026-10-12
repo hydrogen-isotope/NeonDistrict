@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Japanese Bakery shop" by xiverra (@xiverra), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-bakery-shop-87cb93f1b80c481d8f36c1c611a11488
+NAME NeonDistrict_sf164_glow
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.903549 0.572325 0.32007 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.9138
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# small lantern by the door (Cube.004_glow_0).
+PARAM emissiveFactor 0.03 0.006965 0.0006336
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

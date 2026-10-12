@@ -1,0 +1,30 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Japanese paper lanterns collection" by patrakeevasveta, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-paper-lanterns-collection-484f311e91514be482f36234aad3934c
+NAME NeonDistrict_sf11_lantern
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.1 = about 3,330 cd/m2:
+# paper body of all four lanterns: warm amber (emission map linear ~0.46,0.33,0.17) with black text/crest kept dark; black end caps and hook wire are black in the emission map. The glb ships strength 1.691, far too hot for engine units..
+PARAM emissiveFactor 0.1 0.1 0.1
+# THE LIGHT IT CASTS: every draw with this material is a small sphere light (at most 32 lit per
+# frame); 1 multiplies what its own glow over its size physically casts.
+PARAM lightIntensity 1
+PARAM normalScale 0.516573
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf11_Image_0.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf11_Image_1.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf11_Image_3.png} uv0 normal
+TEX emissive {path:Textures/NeonDistrict/sf11_Image_2.png} uv0 sRGB

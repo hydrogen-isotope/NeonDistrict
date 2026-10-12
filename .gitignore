@@ -1,0 +1,15 @@
+# Aver Engine generated / cache data
+Saved/
+DerivedDataCache/
+
+# Blender autosaves / backups
+*.blend1
+*.blend2
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Too large for plain git (GitHub 100 MB per-file limit)
+*.blend

@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Chinese City House - Low Poly" by PolyDavid (@PolyDavid), CC BY 4.0 -- https://sketchfab.com/3d-models/chinese-city-house-low-poly-29ce007ac43c4ad391cf37c2013e274a
+NAME NeonDistrict_sf156_Material_018
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 0.356152 0.356152 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.08 = about 2,670 cd/m2:
+# red sign text on front band, make neon.
+PARAM emissiveFactor 0.08 0.08 0.08
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

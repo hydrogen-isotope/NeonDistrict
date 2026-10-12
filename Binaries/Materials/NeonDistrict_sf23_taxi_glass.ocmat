@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Generic civil service vehicles pack" by Comrade1280, CC BY 4.0 -- https://sketchfab.com/3d-models/generic-civil-service-vehicles-pack-8ff2a13f30914932a70c7950cfa58465
+NAME NeonDistrict_sf23_taxi_glass
+SHADER standard
+BLEND translucent
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 0.865095
+PARAM metallicFactor 0
+PARAM roughnessFactor 0
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_36-1.png} uv0 sRGB

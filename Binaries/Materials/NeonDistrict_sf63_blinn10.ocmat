@@ -1,0 +1,27 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Monorail" by Pedro Lima (@Panza), CC BY 4.0 -- https://sketchfab.com/3d-models/monorail-4f7d1fb61753490da5c5001ce23149a5
+NAME NeonDistrict_sf63_blinn10
+SHADER standard
+# Cut-out, not blended: the alpha is a mask (windows, laundry, grilles); blending sorts badly and
+# is invisible to GI.
+BLEND masked 0.5
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf63_blinn10_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf63_blinn10_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf63_blinn10_normal.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf63_blinn10_metallicRoughness.png} uv0 linear

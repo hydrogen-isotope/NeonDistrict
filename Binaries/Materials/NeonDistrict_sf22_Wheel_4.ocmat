@@ -1,0 +1,23 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Generic passenger car pack" by Comrade1280, CC BY 4.0 -- https://sketchfab.com/3d-models/generic-passenger-car-pack-20f9af9b8a404d5cb022ac6fe87f21f5
+NAME NeonDistrict_sf22_Wheel_4
+SHADER standard
+BLEND opaque
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_29-1.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Image_30.png} uv0 linear

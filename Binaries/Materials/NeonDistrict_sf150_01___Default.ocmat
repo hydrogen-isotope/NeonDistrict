@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Low Poly Hong Kong Inspired Apartment block" by Dazariath (@Dazariath), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-hong-kong-inspired-apartment-block-a84ee57a58c6446491c3c21194549fb0
+NAME NeonDistrict_sf150_01___Default
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.72974 0.72974 0.72974 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.512195
+# No glow: the spec asked for a flat emissive factor over a TEXTURED wall (windows painted into the diffuse), which lit
+# the whole building as one white slab; its lit windows are rooms in a separate emissive map / pane mesh (nd_sf_night.py).
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/01_-_Default_diffuse.png} uv0 sRGB

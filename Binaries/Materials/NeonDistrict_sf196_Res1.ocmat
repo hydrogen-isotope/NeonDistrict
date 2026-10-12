@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Cyberpunk building pack" by ThE CacTUs FaCtorY (@TheCactusFactory), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-building-pack-99d8134448ea47c3a101000b164cf89d
+NAME NeonDistrict_sf196_Res1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.613333
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Res1_baseColor.jpg} uv0 sRGB

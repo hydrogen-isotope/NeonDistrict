@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Parking garage [FREE DOWNLOAD]" by Idmenthal (@idmental.id), CC BY 4.0 -- https://sketchfab.com/3d-models/parking-garage-free-download-5310b7d77b70427d936ec4253fff679c
+NAME NeonDistrict_sf47_Mat_1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0.810373
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 0.518525
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf47_Mat_1_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf47_Mat_1_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf47_Mat_1_normal.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf47_Mat_1_metallicRoughness.png} uv0 linear

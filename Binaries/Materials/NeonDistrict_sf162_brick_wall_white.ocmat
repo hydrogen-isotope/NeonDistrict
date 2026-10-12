@@ -1,0 +1,23 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "TV VHS rent & repair store" by gabstock (@gabstock), CC BY 4.0 -- https://sketchfab.com/3d-models/tv-vhs-rent-repair-store-713e67905db34051a0e069e1bc43a052
+NAME NeonDistrict_sf162_brick_wall_white
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/brick_wall_white_baseColor.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/brick_wall_white_metallicRoughness.png} uv0 linear

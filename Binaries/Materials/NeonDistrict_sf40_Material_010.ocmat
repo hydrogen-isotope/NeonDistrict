@@ -1,0 +1,23 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Cyberpunk skyscrapers set" by Artemis (@Artemis26), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscrapers-set-9acbf256afe84283baacf3ee617d2aaf
+NAME NeonDistrict_sf40_Material_010
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+# Not metal: its metal/rough map marks the panes metal 1 / rough 0, a black mirror.
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.12 = about 4,000 cd/m2:
+# orange neon bands at the podium levels (source z 2.6-7.8, Object_14, 5k tris, about 1 m2), emissive factor (1, 0.27, 0.125).
+PARAM emissiveFactor 0.12 0.03236 0.01497
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

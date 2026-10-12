@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Vino" by minghauLoh (@minghau), CC BY 4.0 -- https://sketchfab.com/3d-models/vino-2205f4e69bc64df3aab03c71ab9d7492
+NAME NeonDistrict_sf16_Glass
+SHADER standard
+BLEND translucent
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 0.25
+# Not metal: its metal/rough map marks the panes metal 1 / rough 0, a black mirror.
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf16_Image_9.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf16_Image_12.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf16_Image_11.png} uv0 normal

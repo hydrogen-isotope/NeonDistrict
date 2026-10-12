@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Parametric high-rise building" by randum (@randum), CC BY 4.0 -- https://sketchfab.com/3d-models/parametric-high-rise-building-e6188bfc730b4d1092e34392ca25dc13
+NAME NeonDistrict_sf72_window
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.100393 0.140033 0.259705 1
+# Not metal: its metal/rough map marks the panes metal 1 / rough 0, a black mirror.
+PARAM metallicFactor 0
+# Rough 0.12: the source reads as a mirror here (no or a wrong roughness map).
+PARAM roughnessFactor 0.12
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.02 = about 670 cd/m2:
+# curtain-wall glass (Epsilon_0_0, about 3,000 m2 at x3.6). The source has NO emissive of any kind (five flat spec/gloss colours, no textures), so 'lit balconies' do not exist in this file. The glass is its own material, so a factor lights the whole shell evenly = a fully lit office/hotel tower, broken into ribbons by the black Cover fin grid in front of it. 0.02 = about 670 cd/m2, cool white; it is the only material that should glow..
+PARAM emissiveFactor 0.02 0.02 0.02
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

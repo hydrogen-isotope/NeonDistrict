@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: Poly Haven (CC0) or generated for this level
+NAME NeonDistrict_pcgm_shoph_mint_1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.8
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# procedural building lit rooms and shop signs (painted by nd_rooms.py), about 1,000 cd/m2 at a full-white texel.
+PARAM emissiveFactor 0.03 0.03 0.03
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/shoph_mint.png} uv0 sRGB
+TEX emissive {path:Textures/NeonDistrict/shoph_n1.png} uv0 sRGB

@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Chinese City House - Low Poly" by PolyDavid (@PolyDavid), CC BY 4.0 -- https://sketchfab.com/3d-models/chinese-city-house-low-poly-29ce007ac43c4ad391cf37c2013e274a
+NAME NeonDistrict_sf156_Clay_soft_polished
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.903566 0.872756 0.767281 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX metalRough {path:Textures/NeonDistrict/sf156_Clay_soft_polished_metallicRoughness.png} uv0 linear

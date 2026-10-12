@@ -1,0 +1,27 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Sky Cab" by Helsingr (@helsingr), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-cab-2322696582de46e2ba816352ff243337
+NAME NeonDistrict_sf39_CabBody
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.12 = about 4,000 cd/m2:
+# rear thruster lenses (two round blue nozzles at the back, saturated cyan-blue with a lighter core); the same emissive map also holds a cream lamp lens (front fender-tip head lamps) and a small red patch (lamp on the nose tip), so the strength is shared. Thruster glow dominates.
+PARAM emissiveFactor 0.12 0.12 0.12
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/CabBody_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/CabBody_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/CabBody_normal.png} uv0 normal
+TEX emissive {path:Textures/NeonDistrict/CabBody_emissive.png} uv0 sRGB

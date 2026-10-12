@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Vintage Chinese Neon Pedestrian Signals" by Signalrenders, CC BY 4.0 -- https://sketchfab.com/3d-models/vintage-chinese-neon-pedestrian-signals-d733eb9a02774dbd94a04738596edf10
+NAME NeonDistrict_sf15_Material_004
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.828956 0.828956 0.828956 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.016762
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0 = about 0 cd/m2:
+# tiny grey clamp/bolt on the +X side (emissiveFactor 0.07 grey): not a light, viewer false positive, set to 0.
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

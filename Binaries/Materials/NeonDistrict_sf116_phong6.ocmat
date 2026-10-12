@@ -1,0 +1,21 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Japanese house 2.0" by annzep (@annzep), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-house-2-0-5ae0121e33b54b7789c6b9113da444bf
+NAME NeonDistrict_sf116_phong6
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.448612 0.830958 0.903085 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.864
+# No glow: the source carried an emissive factor with no (or an all-black) emissive map.
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

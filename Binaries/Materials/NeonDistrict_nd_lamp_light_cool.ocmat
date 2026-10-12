@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: Poly Haven (CC0) or generated for this level
+NAME NeonDistrict_nd_lamp_light_cool
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.953238 0.976955 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.3
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.5 = about 16,670 cd/m2:
+# LED street-lamp lantern, about 16,700 cd/m2.
+PARAM emissiveFactor 0.36 0.43 0.5
+# THE LIGHT IT CASTS: every draw with this material is a small sphere light (at most 32 lit per
+# frame); 1.5 multiplies what its own glow over its size physically casts.
+PARAM lightIntensity 1.5
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

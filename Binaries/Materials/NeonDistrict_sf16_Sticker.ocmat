@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Vino" by minghauLoh (@minghau), CC BY 4.0 -- https://sketchfab.com/3d-models/vino-2205f4e69bc64df3aab03c71ab9d7492
+NAME NeonDistrict_sf16_Sticker
+SHADER standard
+BLEND masked 0.153371
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_16.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Image_17.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/Image_18.png} uv0 normal

@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: Poly Haven (CC0) or generated for this level
+NAME NeonDistrict_nd_kitroom_W1
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.15
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# kit-bay window, a lit living room (side, warm30 light): averages about 60 cd/m2.
+PARAM emissiveFactor 0.03 0.03 0.03
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/nd_kit_W1_b.png} uv0 sRGB
+TEX emissive {path:Textures/NeonDistrict/nd_kit_W1_e.png} uv0 sRGB

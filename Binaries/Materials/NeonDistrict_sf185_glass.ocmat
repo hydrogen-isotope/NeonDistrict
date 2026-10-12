@@ -1,0 +1,20 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Sky Peak Towers" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-peak-towers-93e780cb7b7a4b9784f42cc3f0f6331e
+NAME NeonDistrict_sf185_glass
+SHADER standard
+BLEND translucent
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.390272 0.481084 0.491913 0.91886
+PARAM metallicFactor 1
+PARAM roughnessFactor 0
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

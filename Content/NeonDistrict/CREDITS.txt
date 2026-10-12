@@ -1,0 +1,228 @@
+NeonDistrict third-party assets (Sketchfab, all CC BY 4.0 -- credit required; modified: re-scaled, textures resized,
+materials re-authored for the Aver Engine). Poly Haven assets are CC0 and listed in ../manifest.json.
+
+"Procedural Hong Kong building" by uday (udayjeet), CC BY 4.0 -- https://sketchfab.com/3d-models/procedural-hong-kong-building-528a732e84c44fd49c4726f341014a23
+"Asian Themed Low Poly Night City Buildings" by 99.Miles, CC BY 4.0 -- https://sketchfab.com/3d-models/asian-themed-low-poly-night-city-buildings-9f0343aff4814b758dc6e905aba5b5e0
+"Low Poly Night City Building Skyline" by 99.Miles, CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-night-city-building-skyline-b0035b8713b048bb8ddf311ee67c28c8
+"High Rise Office Building" by Arsen Ismailov (fdgasd7), CC BY 4.0 -- https://sketchfab.com/3d-models/high-rise-office-building-3db1659ca3984bdbb18d9d3838095bea
+"LOW POLY - ASIAN TOWER BLOCK" by Colin.Greenall, CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-asian-tower-block-694adf5094fa41f99a245ed822293f47
+"Rooftop Ventilation Modular Kit" by D3D (Darko3DArt), CC BY 4.0 -- https://sketchfab.com/3d-models/rooftop-ventilation-modular-kit-53535fc3005741758c35a4b7227aaff5
+"Game Ready Japanese Small Vertical Neon Sign" by Alex Bes (alexbescg), CC BY 4.0 -- https://sketchfab.com/3d-models/game-ready-japanese-small-vertical-neon-sign-5849c107ecb7472bb1eef028f5b97f0d
+"Japanese sign board 003" by sa6, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-sign-board-003-66a9f233bbaa43e0a91f1eb9d8353356
+"Neon Ramen Soup Sign" by @blue.blender.print (arobaco), CC BY 4.0 -- https://sketchfab.com/3d-models/neon-ramen-soup-sign-db7b6dab6fae4fc3a6894e5326609ab9
+"Japanese light signage" by Sousinho, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-light-signage-5bc2755daf934419a176604163ffbd20
+"Japanese paper lanterns collection" by patrakeevasveta, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-paper-lanterns-collection-484f311e91514be482f36234aad3934c
+"Cyberpunk Diner Sign (Japanese)" by LukeMarsh201, CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-diner-sign-japanese-6ffce0f168534501bdd9199847d57831
+"Neon Letters" by danny_p3d, CC BY 4.0 -- https://sketchfab.com/3d-models/neon-letters-a88035b37ba4498b8d7fe9cfbc0dccc8
+"Metal Billboard Advertising Single Sided [Free]" by JoTrain The Aussie (Jotrain), CC BY 4.0 -- https://sketchfab.com/3d-models/metal-billboard-advertising-single-sided-free-33c164cf9e4346d1b48eb0c49cb2643f
+"Vintage Chinese Neon Pedestrian Signals" by Signalrenders, CC BY 4.0 -- https://sketchfab.com/3d-models/vintage-chinese-neon-pedestrian-signals-d733eb9a02774dbd94a04738596edf10
+"Vino" by minghauLoh (@minghau), CC BY 4.0 -- https://sketchfab.com/3d-models/vino-2205f4e69bc64df3aab03c71ab9d7492
+"Worn Out Old School Vespa" by Jakob_Forseth, CC BY 4.0 -- https://sketchfab.com/3d-models/worn-out-old-school-vespa-358a77040c53419b9bb50c462a160e6f
+"Honda Super cub" by Aleksandr Sagidullin (@jintrim3), CC BY 4.0 -- https://sketchfab.com/3d-models/honda-super-cub-9ce554228fc746c89f6d02b995f43c41
+"Asian Mini Truck" by Evan Hiltz (@evan.hiltz), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-mini-truck-b5a40b838b414d248db2d2fab6a2bb56
+"LCT 3000 '95 - Low poly model" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/lct-3000-95-low-poly-model-663a0953c038434a918cb85725c88ffa
+"Kiri '86 - Low poly model" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/kiri-86-low-poly-model-5c17c582ef9549798f694b660feea42a
+"Generic passenger car pack" by Comrade1280, CC BY 4.0 -- https://sketchfab.com/3d-models/generic-passenger-car-pack-20f9af9b8a404d5cb022ac6fe87f21f5
+"Generic civil service vehicles pack" by Comrade1280, CC BY 4.0 -- https://sketchfab.com/3d-models/generic-civil-service-vehicles-pack-8ff2a13f30914932a70c7950cfa58465
+"Chinese Food Stall in London" by Pukka Films (@pukkafilms), CC BY 4.0 -- https://sketchfab.com/3d-models/chinese-food-stall-in-london-4c860ac992c74547b3dbcb802b52ea98
+"Traffic Cones" by NotAnotherApocalypticCo. (@notanotherapocalypticco), CC BY 4.0 -- https://sketchfab.com/3d-models/traffic-cones-e03b1d2dfdc0416bb8324d15573ea60c
+"Japan post box" by exiS7-Gs, CC BY 4.0 -- https://sketchfab.com/3d-models/japan-post-box-ed30f71494e44801bb18cb5aeddcddf6
+"Japanese Road Signs (28 road signs and more)" by Yanis (@notbadworks), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-road-signs-28-road-signs-and-more-02c4941681264875a84b0f0b0c5c0ee1
+"Energy Station [Street Assets Vol. 03]" by Alt (@whisper.alt), CC BY 4.0 -- https://sketchfab.com/3d-models/energy-station-street-assets-vol-03-99058ed37c0f47eeb70aa07d62b4b1a8
+"Old Air Conditioner" by DTry, CC BY 4.0 -- https://sketchfab.com/3d-models/old-air-conditioner-4453ceb53827439cafd29f6d295ac248
+"Rusted corrugated panels" by sousinho, CC BY 4.0 -- https://sketchfab.com/3d-models/rusted-corrugated-panels-ea06568a9e304ecc806cb7cb0552e269
+"Japanese parking machine" by AndreiVNK, CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-parking-machine-a93161d5bafb4d83a73c766aadb97416
+"Concrete Girder Beam Bridges/Tunnels [Free]" by JoTrain The Aussie (@Jotrain), CC BY 4.0 -- https://sketchfab.com/3d-models/concrete-girder-beam-bridgestunnels-free-1c5d6642796843c198b94124518b9f04
+"Modular Road Bridge" by VectorMan (@ankit.baing.ab), CC BY 4.0 -- https://sketchfab.com/3d-models/modular-road-bridge-f14e768fde1d4d4d9ef8886ca55cfc03
+"Sci-fi stairs with neon backlighting (4 floors)" by tekuto1s (@tekuto1s), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-stairs-with-neon-backlighting-4-floors-ef4652f0d660445783fa9037c75e4ce2
+"WIP - Lowpoly People - 1" by Loic Norgeot (@norgeotloic), CC BY 4.0 -- https://sketchfab.com/3d-models/wip-lowpoly-people-1-8cfd467af4334ea384d854109865f939
+"WIP - Lowpoly People - 2" by Loic Norgeot (@norgeotloic), CC BY 4.0 -- https://sketchfab.com/3d-models/wip-lowpoly-people-2-4cf6f452719c4363bab5faddbc221391
+"Cyberpunk car" by 4d_Bob (@3d_Bob), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-car-b4301ff99d214d16a7a43708a5866bf0
+"Flying Car" by skartemka (@skartemka), CC BY 4.0 -- https://sketchfab.com/3d-models/flying-car-d0efc1fe6c5c419896fe239d85c5e589
+"Sky Cab" by Helsingr (@helsingr), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-cab-2322696582de46e2ba816352ff243337
+"Cyberpunk skyscrapers set" by Artemis (@Artemis26), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscrapers-set-9acbf256afe84283baacf3ee617d2aaf
+"HW 4 Cyberpunk Sci-fi Building" by Eh (@Just_Eh), CC BY 4.0 -- https://sketchfab.com/3d-models/hw-4-cyberpunk-sci-fi-building-99bc36183ca94ca2bd493218566d1209
+"Dumpster (CyberPunk) Game Assets" by EXHALE (@design.ruben), CC BY 4.0 -- https://sketchfab.com/3d-models/dumpster-cyberpunk-game-assets-b0d0304c927b450d904163fa43978519
+"HoloBoard" by TooManyDemons (@toomanydemons), CC BY 4.0 -- https://sketchfab.com/3d-models/holoboard-0644f1b2450543e2a96d5eae496798b6
+"Concrete Barrier / Drum Barrel / Fences" by Myjato (@Myjato), CC BY 4.0 -- https://sketchfab.com/3d-models/concrete-barrier-drum-barrel-fences-0b6775113093414c8174982c4d9337a4
+"Monorail" by Pedro Lima (@Panza), CC BY 4.0 -- https://sketchfab.com/3d-models/monorail-4f7d1fb61753490da5c5001ce23149a5
+"Parking Garage" by dylanheyes (@dylanheyes), CC BY 4.0 -- https://sketchfab.com/3d-models/parking-garage-88c3f49f553f41f59382e0e38781193c
+"Parking garage [FREE DOWNLOAD]" by Idmenthal (@idmental.id), CC BY 4.0 -- https://sketchfab.com/3d-models/parking-garage-free-download-5310b7d77b70427d936ec4253fff679c
+"Steel stair" by bighlerm8888 (@bighlerm8888), CC BY 4.0 -- https://sketchfab.com/3d-models/steel-stair-3a664dcd8baa499d8b4bbad8fbba3b33
+"Scaffold Stairs Steel construction" by dchant design (@dchant), CC BY 4.0 -- https://sketchfab.com/3d-models/scaffold-stairs-steel-construction-d2230c5644234b3781cd7b2a6cec9638
+"Fire Escape" by KnightFallows (@KnightFallows), CC BY 4.0 -- https://sketchfab.com/3d-models/fire-escape-8b33ab96b91a45b1bdaa81b3effd7970
+"Warehouse FBX Model Free" by Nicholas-3D (@Nicholas01), CC BY 4.0 -- https://sketchfab.com/3d-models/warehouse-fbx-model-free-daa7fd3ff88945298d00045ca40a4c03
+"Metro/Subway Station Interior" by shhiiii (@yulaflibiskuvi), CC BY 4.0 -- https://sketchfab.com/3d-models/metrosubway-station-interior-14f5a6534607450d82583e0aa0ed345b
+"Passenger Car(Rail)" by Lyskilde (@longtail), CC BY 4.0 -- https://sketchfab.com/3d-models/passenger-carrail-1ec9ef29c1604487a2f498df7e744c88
+"Traditional Bangladeshi Boat" by Zamir Uddin (@xamir), CC BY 4.0 -- https://sketchfab.com/3d-models/traditional-bangladeshi-boat-45ab977c53aa44c3b9c81052dcf19b57
+"Fisher boat" by Batuhan13 (@Batuhan13), CC BY 4.0 -- https://sketchfab.com/3d-models/fisher-boat-385b039e95754dca8d8c045ed0c515cf
+"Barge Ship" by ShinArtVi (@ShinArtVi), CC BY 4.0 -- https://sketchfab.com/3d-models/barge-ship-18ef98f0d84047368bc8ebb702f140ba
+"Helix Bridge" by Sengchor (@Sengchor), CC BY 4.0 -- https://sketchfab.com/3d-models/helix-bridge-1221edc4c2454b29b3b6adcd6fdefb0e
+"Stylised Low Poly - City Metal Bridge" by remidoes3d (@remidoes3d), CC BY 4.0 -- https://sketchfab.com/3d-models/stylised-low-poly-city-metal-bridge-674aee9cfd7b478b93c2f3e2d7026a0c
+"Simple Wooden Pier or Dock" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/simple-wooden-pier-or-dock-5bf117cb734a46559d10971c3098165c
+"Night market stall" by Allen Tseng (@alen60303), CC BY 4.0 -- https://sketchfab.com/3d-models/night-market-stall-ffaabf87bb024b48b240909632e0b524
+"Asian Wet Market barbecue street food stall scan" by Alben Tan (@albentan2012), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-wet-market-barbecue-street-food-stall-scan-89ba4f01b0e048a7b60282c9c4f5a74a
+"Asian Shop Pack Free Gameready" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-shop-pack-free-gameready-2f603ad8d5c640f7b9794f6916f9fbdd
+"Monorail" by iedalton (@iedalton), CC BY 4.0 -- https://sketchfab.com/3d-models/monorail-f56a6e034cf04e65bba860246ab9aa1e
+"Flying futuristic train with uncleaned graffiti" by @blue.blender.print (@arobaco), CC BY 4.0 -- https://sketchfab.com/3d-models/flying-futuristic-train-with-uncleaned-graffiti-deb521c6353844449422aacc12790a3f
+"[FREE] Atlanta, Corperate Office Building" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/free-atlanta-corperate-office-building-d96380fb001345cca9a9be121f3e43d5
+"[FREE] London Skyscraper" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/free-london-skyscraper-52b73f6ea18a440cb42734840d5edc72
+"Singapore Office Skyscraper [FREE]" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/singapore-office-skyscraper-free-2305f0fe03ba44229a1f768dcb48bd8f
+"London Office Building" by Pukka Films (@pukkafilms), CC BY 4.0 -- https://sketchfab.com/3d-models/london-office-building-8d3ea98595b4403cbf21065e8f9b7bb7
+"Skyscraper Tower" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/skyscraper-tower-8c141fda071f4f6a927f4d7047f48ec7
+"Low Poly Skyscrapers" by exleute (@exleute), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-skyscrapers-4d51f4281a8649528569021411820d28
+"Parametric high-rise building" by randum (@randum), CC BY 4.0 -- https://sketchfab.com/3d-models/parametric-high-rise-building-e6188bfc730b4d1092e34392ca25dc13
+"The Vizcayne, Miami" by aitortilla01 (@aitortilla01), CC BY 4.0 -- https://sketchfab.com/3d-models/the-vizcayne-miami-2f326604f2c34a09b3dcf3d6f8e3fd4b
+"Hong Kong monster building 2" by Pasha (@Pasha.), CC BY 4.0 -- https://sketchfab.com/3d-models/hong-kong-monster-building-2-e5aec5eb2f674f77a23d61ad42dd05da
+"Back Alley Electric Boxes - Urban Tbilisi" by Nik (@nikska), CC BY 4.0 -- https://sketchfab.com/3d-models/back-alley-electric-boxes-urban-tbilisi-c6bf065ea05c40a393a4e3b7aa4e1258
+"Alley Asset" by KeyChqn (@KeyChqn), CC BY 4.0 -- https://sketchfab.com/3d-models/alley-asset-aeaa522bdcf347dc9994d559213dd42e
+"Garbage Bin" by Rob Ortiz (@roberto_ortiz), CC BY 4.0 -- https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6
+"Trash" by Guy in a Poncho (@ponchoguy), CC BY 4.0 -- https://sketchfab.com/3d-models/trash-555fd7fe9f164802a0ff194c0559075b
+"Crates and boxes at the back of an Asian store" by Alben Tan (@albentan2012), CC BY 4.0 -- https://sketchfab.com/3d-models/crates-and-boxes-at-the-back-of-an-asian-store-26f01d69ac8c49b2a4c34e21b68c656f
+"Laundry Clothesline" by Khoa Nguyen (@ngdkh), CC BY 4.0 -- https://sketchfab.com/3d-models/laundry-clothesline-6f13cc3c463f43888fb5db634cc603aa
+"Cyberpunk skyscraper" by Artemis (@Artemis26), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscraper-e7c9ef989822425e9a0e09c37b79170f
+"Cyberpunk Background Appartment building" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-background-appartment-building-65be0ddf5ca6423ba2ce907ae6d09680
+"MegaJunk_01" by Solarliu (@jacky15621419), CC BY 4.0 -- https://sketchfab.com/3d-models/megajunk-01-826aec0f860a40509b8c412e40a29953
+"Sci-fi Building 4" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-4-a07af3b8c6c045d89a37a3b3cde7be1b
+"Sci-fi Building 10" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-10-08f1f006b4bb4e04831555cfc1a3ea49
+"Sci-fi Building 11" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-11-d3029779c7e54ee6afa3890b42a32098
+"sci-fi building concept" by David06 (@David06), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-concept-ef51819f82974cf7805659058d5b4f59
+"DAOtown Building Kit" by m3org (@m3org), CC BY 4.0 -- https://sketchfab.com/3d-models/daotown-building-kit-250e2caa0ce7454db1c7ffa48dc4093a
+"Cyberpunk Building" by igor.tesV (@igor.tesV), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-building-e79154e588bd4a6c84fa07e9a53f3ff9
+"Futuristic building" by Oleksandr Zymohliad (@oleksandr_zymohliad), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-building-8cb99bb8e540450eb11c2bddeac1343a
+"Hi rise apartment building" by aitortilla01 (@aitortilla01), CC BY 4.0 -- https://sketchfab.com/3d-models/hi-rise-apartment-building-f8c0a550cd1e441f85b46caeba6632f3
+"New York style condominium" by aitortilla01 (@aitortilla01), CC BY 4.0 -- https://sketchfab.com/3d-models/new-york-style-condominium-9359c41541814b968360fc4f3823892c
+"Miami style condominium" by aitortilla01 (@aitortilla01), CC BY 4.0 -- https://sketchfab.com/3d-models/miami-style-condominium-b3e16399830045a7b67ec8e02447fd27
+"residential complex modern apartment building" by zigurat architecture studio (@ziguratarchitecturestudio), CC BY 4.0 -- https://sketchfab.com/3d-models/residential-complex-modern-apartment-building-d4959af16d8f4524844e8b97d3e9772b
+"modern tower office apartment house home" by zigurat architecture studio (@ziguratarchitecturestudio), CC BY 4.0 -- https://sketchfab.com/3d-models/modern-tower-office-apartment-house-home-4480869188b64658aa8c69ed31a730df
+"Modern Office Building" by Bl4ckGh0st (@Bl4ckGh0st), CC BY 4.0 -- https://sketchfab.com/3d-models/modern-office-building-c6b0308c2ebb4842ae49aff70ce14ad0
+"Melodia City Hotel" by Dreaming Dogg (@DreamingDogg), CC BY 4.0 -- https://sketchfab.com/3d-models/melodia-city-hotel-a2fb8e4065ce470296d6d801daa37f18
+"Asia Building" by Solarliu (@jacky15621419), CC BY 4.0 -- https://sketchfab.com/3d-models/asia-building-a3f45195b01f48ff9f687d3ceac52b82
+"House" by local.yany (@local.yany), CC BY 4.0 -- https://sketchfab.com/3d-models/house-d3f85975cfad4b24bf14175f4ff3269d
+"Russian residential building: P-44K" by AquaSixio (@AquaSixio_), CC BY 4.0 -- https://sketchfab.com/3d-models/russian-residential-building-p-44k-6536b723e61640c8a85c5d250985fd5a
+"nine-story building of the post soviet" by vladySLAVE (@vladySLAVE), CC BY 4.0 -- https://sketchfab.com/3d-models/nine-story-building-of-the-post-soviet-33a2b2901adc4b38ab83021b0837cd10
+"LOW POLY - SOVIET  APARTMENT BUILDING 8K" by Colin.Greenall (@Colin.Greenall), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-soviet-apartment-building-8k-05229ac1d1f94e6c8cacaad91110c602
+"Soviet panel house built in the 1970s" by Unka II (@UnkaII), CC BY 4.0 -- https://sketchfab.com/3d-models/soviet-panel-house-built-in-the-1970s-94996e8cf4a8452d91ec1e206b5b4137
+"Khrushchevka" by quizzes (@quizzes), CC BY 4.0 -- https://sketchfab.com/3d-models/khrushchevka-4c759da8b8914ec4924f68ee9cc3cbd5
+"Enterable Panel House" by C01L3D (@c01l3d), CC BY 4.0 -- https://sketchfab.com/3d-models/enterable-panel-house-22a08dc43c1c4888ad8d33b7d2e69e81
+"Old Residential Building [4k]" by Andrej Grave (@andrej.grave), CC BY 4.0 -- https://sketchfab.com/3d-models/old-residential-building-4k-dd400ed693cf416e940c5b8e3107205e
+"Full Gameready City Buildings III [HongKong]" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/full-gameready-city-buildings-iii-hongkong-03a5255bb9624d4e82cb8e15e0070b70
+"Realistic chicago buildings" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/realistic-chicago-buildings-c4a3993ef1e84e6d9d5a15c78da88aae
+"Chicago buildings" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/chicago-buildings-950b3d8a998c41ecb06e6ba85da3e1f6
+"Detailed Old NYC Building" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/detailed-old-nyc-building-258cac58409b400ba4379222ebddf4f5
+"HW9: Automapping" by Vlad Soloshuk (N1ght) (@Vladislav..Soloshuk), CC BY 4.0 -- https://sketchfab.com/3d-models/hw9-automapping-cb97cea9a1184ccc9a50cc80bec9c313
+"Modular Buildings" by BB ARTS (@BBARTS), CC BY 4.0 -- https://sketchfab.com/3d-models/modular-buildings-0722317320bc485d8b5191d35dd07910
+"City Apartment Building" by fredbear1211 (@fredbear1211), CC BY 4.0 -- https://sketchfab.com/3d-models/city-apartment-building-7f77793a848643e4818280f17f1629a0
+"Downtown Buildings Set - Low Poly model" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/downtown-buildings-set-low-poly-model-7378e7fb9c914c39880d9913a6f4e1d6
+"Brownstone Building Set - Low poly model" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/brownstone-building-set-low-poly-model-b15e6344acd844eabc823e1cc8332574
+"Japanese house 2.0" by annzep (@annzep), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-house-2-0-5ae0121e33b54b7789c6b9113da444bf
+"Japanese Shop" by local.yany (@local.yany), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-shop-2e6b142ef11e4ab0a6c32e2af8ec828b
+"Asian Shop 1" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-shop-1-0e5f7674f7b048ca83f8a61d2857a621
+"Japanese Store" by Nick.Stark (@Nick.Stark), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-store-78396a70304b412d9bc8e3955891f6cd
+"Building pack" by Pasha (@Pasha.), CC BY 4.0 -- https://sketchfab.com/3d-models/building-pack-ecec5070c3564d429062f346355634c7
+"CCity Building Set 1" by Neberkenezer (@neberkenezer), CC BY 4.0 -- https://sketchfab.com/3d-models/ccity-building-set-1-a2d5c7bfcc2148fb8994864c43dfcc97
+"Industrial Buildings Set - Low poly models" by Daniel Zhabotinsky (@DanielZhabotinsky), CC BY 4.0 -- https://sketchfab.com/3d-models/industrial-buildings-set-low-poly-models-e0b0d0342be24e6c923319991a2a4d3d
+"Warehouses" by 99.Miles (@99.Miles), CC BY 4.0 -- https://sketchfab.com/3d-models/warehouses-e6e105d35b3f486292c42ffa52f363c0
+"Building scan No. 23" by 3Dystopia (@Dystopia), CC BY 4.0 -- https://sketchfab.com/3d-models/building-scan-no-23-6fbb2f4999e84adc86687e6833322ff2
+"Modular industrial building" by Niko_Forest1889 (@adiko1889), CC BY 4.0 -- https://sketchfab.com/3d-models/modular-industrial-building-4bb58f7548c7464ebdf41a51958f712a
+"Factory Building" by Jet (@jetjones), CC BY 4.0 -- https://sketchfab.com/3d-models/factory-building-29add30cdf9b4f1585d73a7ad07a8005
+"old oil tank .1" by Kwon_Hyuk (@Kwon_Hyuk), CC BY 4.0 -- https://sketchfab.com/3d-models/old-oil-tank-1-2771d6fa8d2d4582b3d8d551fd83dbcc
+"Chemical tank" by Mkc (@ixMkc1), CC BY 4.0 -- https://sketchfab.com/3d-models/chemical-tank-63c001e74ff5402fbcf1338479c9c0c5
+"Modular Slums" by AlexFerrart3D (@alexferrart3D), CC BY 4.0 -- https://sketchfab.com/3d-models/modular-slums-e2b6f532e1fe4f7280890971d78183f4
+"Cyberpunk skyscraper" by Artemis (@Artemis26), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscraper-f0af05e128284feba38a1611edba3dff
+"Futuristic background buildings kit" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-background-buildings-kit-2d5727126bc441ce88dba3a891857876
+"Futuristic Tower" by QuetzMC (@QuetzMC), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-tower-7c40511046d4425083c2a5c802412387
+"AMS S1" by AL3K (@alexinsouratselou), CC BY 4.0 -- https://sketchfab.com/3d-models/ams-s1-820b7e36f516422f80771fd5a084c55f
+"SKY T 021" by AL3K (@alexinsouratselou), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-t-021-c10c80bace094111aabe39ac6cd61765
+"Sci-fi Building" by Whole.rär (@Wholerar), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-638f8e41799b48af811244e0cb8e7111
+"Brutalist Skyscraper Mega Church" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/brutalist-skyscraper-mega-church-fabdcc3c64a84eb19cfb9c2fa209d4a2
+"Futuristic_[X]_Building-V" by -X-ScornGames (@XX-XX), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-x-building-v-8585cf6f55a34c0588e95e61a77650e9
+"Cyberpunk_[X]_Skyscraper_V" by -X-ScornGames (@XX-XX), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-x-skyscraper-v-dc2e8e66cd504748829c48a76bb65dfc
+"{Cyberpunk-].█.[-Skyscraper}-⨷.[⨰].⨷-{♁:Earth}" by -X-ScornGames (@XX-XX), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscraper-earth-ad9cd4d0f24d4c9bb6b49b24facad2bb
+"Cyberpunk_!-X-!-City-Part.03." by -X-ScornGames (@XX-XX), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-x-city-part-03-f433c973a84a4ac6b071fb5da9f7546f
+"Ivory Towers" by d880 (@distance880), CC BY 4.0 -- https://sketchfab.com/3d-models/ivory-towers-24567ddb2793422fa98b7244f3c5382a
+"Sci-Fi Tower" by Jonathan (@jonathan.leclerc96), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-tower-c271103cd2f84ed3992baeda6416bbb0
+"Building TEST" by jimbogies (@jimbogies), CC BY 4.0 -- https://sketchfab.com/3d-models/building-test-2be5bc82b537483d8fb0b507a8027734
+"Kanada Cafe & Shopping Center" by Oskar3D_ (@Oskar3D_), CC BY 4.0 -- https://sketchfab.com/3d-models/kanada-cafe-shopping-center-be2504f83b7a4c27aa11128bfd9a4191
+"Kowloon Walled City in Hong Kong in the 1990s" by Alin (@linbaofudashuaibi), CC BY 4.0 -- https://sketchfab.com/3d-models/kowloon-walled-city-in-hong-kong-in-the-1990s-893a5b7436dc4a5a9e7a6815e878abc1
+"Hotel Opium Nights" by MɅVERY (@MXVERY), CC BY 4.0 -- https://sketchfab.com/3d-models/hotel-opium-nights-d91a9263b6aa48638e9d608291c8eb09
+"Low Poly Hong Kong Inspired Apartment block" by Dazariath (@Dazariath), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-hong-kong-inspired-apartment-block-a84ee57a58c6446491c3c21194549fb0
+"Grey Japanease Apartment" by Kasuga𓅂 (@kasuga), CC BY 4.0 -- https://sketchfab.com/3d-models/grey-japanease-apartment-8589efeb25284d709934497e02a25421
+"Apartment buildings in central Shanghai" by timmy_tumbler (@timmy_tumbler), CC BY 4.0 -- https://sketchfab.com/3d-models/apartment-buildings-in-central-shanghai-6c4c241123dc49b6b072a936d3b50cf6
+"small apartment 2   skeleton in japan" by makoto_jww (@makoto_jww), CC BY 4.0 -- https://sketchfab.com/3d-models/small-apartment-2-skeleton-in-japan-1576197aeacb4795b31ae8e357ba3b9f
+"Nice building in Nippori：日暮里のいいビル" by kazugoru (@kazugoru), CC BY 4.0 -- https://sketchfab.com/3d-models/nice-building-in-nippori-8e82ddace3af4b0681764f2cbcb77ff7
+"Asian building piece 1" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/asian-building-piece-1-a541c1abd5a148e396ebc54de8b7ef85
+"Chinese City House - Low Poly" by PolyDavid (@PolyDavid), CC BY 4.0 -- https://sketchfab.com/3d-models/chinese-city-house-low-poly-29ce007ac43c4ad391cf37c2013e274a
+"Old Japanese Store | Lowpoly" by Frid.blend (@Fridqeir), CC BY 4.0 -- https://sketchfab.com/3d-models/old-japanese-store-lowpoly-baa1a12ed0984143adde52b5e165e288
+"Cyberpunk Temple" by Chiel_Paassen (@Chiel_Paassen), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-temple-1f85def3b1604a85b9b0319fc083109f
+"Cyberpunk Shoe Store House" by Bjarne Stokhof (@stokhuis), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-shoe-store-house-df4a281c365d4be7a11599b2ec22a83a
+"Old Indonesian Shop Buildings" by Frid.blend (@Fridqeir), CC BY 4.0 -- https://sketchfab.com/3d-models/old-indonesian-shop-buildings-ea79a679c6794b46a8e6ba86751317c2
+"Izakaya - Low Poly Building" by BenMaher (@BenMaher), CC BY 4.0 -- https://sketchfab.com/3d-models/izakaya-low-poly-building-3f43e5429171408e9bd19553ea813364
+"TV VHS rent & repair store" by gabstock (@gabstock), CC BY 4.0 -- https://sketchfab.com/3d-models/tv-vhs-rent-repair-store-713e67905db34051a0e069e1bc43a052
+"cyber noddle stand 2" by Finn Tran (@Yoolootran), CC BY 4.0 -- https://sketchfab.com/3d-models/cyber-noddle-stand-2-f019fa3323f74d2fa170ff236d6839d9
+"Japanese Bakery shop" by xiverra (@xiverra), CC BY 4.0 -- https://sketchfab.com/3d-models/japanese-bakery-shop-87cb93f1b80c481d8f36c1c611a11488
+"Old Industrial Building" by Hrvoje Wächter (@gazdahrco), CC BY 4.0 -- https://sketchfab.com/3d-models/old-industrial-building-0dafa7aaadfd4666bb4a32776c84b14e
+"ALPHA TOWER" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/alpha-tower-4419eca89c2a43bd9a9f7d662f6b6918
+"BETA TOWER" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/beta-tower-bd1c83f306c94582ae988cb69e404cb8
+"GAMMA TOWER" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/gamma-tower-e5313bbb8c5c47328e3b1405f25d5139
+"DELTA TOWER" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/delta-tower-48cd6e7d8982400cb2cffc8bd69a597b
+"EPSILON TOWER" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/epsilon-tower-005e694c69a84fb886323242c34069c8
+"CENTINEL BEAM" by Portal.Studio (@Portal.Studio), CC BY 4.0 -- https://sketchfab.com/3d-models/centinel-beam-fb428e8df4904ee892adabc53ac0e0c0
+"Sci-fi Building 2" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-2-3559c3a0038f4c5f94335707ccff8217
+"Sci-fi Building 3" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-3-a218d492236b4414b60455f7ce6a9be7
+"Sci-fi Building 5" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-5-01bbf6d3b3424694b4c6a1e4693af104
+"Sci-fi Building 6" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-6-e1ec43d7bf1146789553000f49e7e060
+"Sci-fi building 7" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-7-b26b4ace15bd48259fcf235d31eec7c8
+"Sci-fi Building 8" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-8-72ebdbce039d40b790ae47570d8e6042
+"Sci-fi Building 9" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-9-c685e8f984d84f2e94137e6f576e9570
+"Sci-fi Building" by Scarecrow_original (@Scarecrow_original), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-570874c83da24c788c0f247a51a6814d
+"Sc-fi Building" by Jonathan (@jonathan.leclerc96), CC BY 4.0 -- https://sketchfab.com/3d-models/sc-fi-building-bb76aebb7dd947c8a4edf02ed12376ce
+"Futuristic Building" by Jonathan (@jonathan.leclerc96), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-building-555daf778aa245158e4b24214ccc1dbb
+"SciFi building_117" by TankStorm (@tankstorm), CC BY 4.0 -- https://sketchfab.com/3d-models/scifi-building-117-72b26b89490b40d2868bbd3a3c7e7946
+"SciFi building_107" by TankStorm (@tankstorm), CC BY 4.0 -- https://sketchfab.com/3d-models/scifi-building-107-e58b0d223c5a42fca58539519d94f512
+"SciFi building_154" by TankStorm (@tankstorm), CC BY 4.0 -- https://sketchfab.com/3d-models/scifi-building-154-f28bba397e1a4f00a4e57dc27c9aae25
+"Futuristic Building Props" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-building-props-7552b8d7fb4f48219d571c57f19f138c
+"Sky Peak Towers" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/sky-peak-towers-93e780cb7b7a4b9784f42cc3f0f6331e
+"Oval Place" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/oval-place-fd50731a565f4e99bf596db53564fd7f
+"Modern Structural tower" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/modern-structural-tower-4210a39235394f5bb8388d7d07dc8d47
+"Isosceles Highrise Concept" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/isosceles-highrise-concept-12ae31bfd03b40248f47e505ac41c901
+"Brutalist Mega Structure low-poly (animated)" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/brutalist-mega-structure-low-poly-animated-3f3044b1c74c43b0936d6f688f4ff501
+"Futuristic Background Buildings Kit Volume 2" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-background-buildings-kit-volume-2-4379bf47406d49b1a87ba8ce441a34c0
+"Brutalist Skyscraper Tower by Jungle Jim" by Jungle Jim (@jungle_jim), CC BY 4.0 -- https://sketchfab.com/3d-models/brutalist-skyscraper-tower-by-jungle-jim-a3433dc7e4b847a280aaae161533b5f8
+"Sci-fi Buildings Pack (low-poly, game ready)" by TampaJoey (@TampaJoey), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-buildings-pack-low-poly-game-ready-333a430644b34e688aecfdc874f4cbf2
+"Cyberpunk Buldings Pack" by carlcapu9 (@carlcapu9), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-buldings-pack-ace0a7dbf91d477f92b136cdc80062d7
+"Sci-Fi Buildings Pack" by golukumar (@mortalityrexotable), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-buildings-pack-cc74d81f4e0e4db3acf6f3433c678250
+"Cyberpunk City #2" by John Doe (@born2012), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-city-2-ff9ee34073fd409d8ef947dc85ca0033
+"Cyberpunk building pack" by ThE CacTUs FaCtorY (@TheCactusFactory), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-building-pack-99d8134448ea47c3a101000b164cf89d
+"Tri-Planar City" by d880 (@distance880), CC BY 4.0 -- https://sketchfab.com/3d-models/tri-planar-city-6c11167cdec04e8a9ea1bb9a7d19d0a9
+"Neon Challenge Scifi Buildings (Blockout)" by TooManyDemons (@toomanydemons), CC BY 4.0 -- https://sketchfab.com/3d-models/neon-challenge-scifi-buildings-blockout-52977a33319d403b82857e4512ea3486
+"Skyscraper Series" by vSpline (@vSpline), CC BY 4.0 -- https://sketchfab.com/3d-models/skyscraper-series-95be3f5cbd684dc59b744d80a9ffd71e
+"Scifi Building 1" by Daniyal Malik (@daniyalmalik), CC BY 4.0 -- https://sketchfab.com/3d-models/scifi-building-1-0ae51cf0fd21473a98a26207cbc932df
+"Sci-Fi Building 1" by 𝗻𝗲𝗻𝗸𝗲𝗮 (@nenkea), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-1-da4d7f4c35be49baa287af0782c2171b
+"Modular Lowpoly Sci-Fi Building" by pixelgrapher (@pixelgrapher), CC BY 4.0 -- https://sketchfab.com/3d-models/modular-lowpoly-sci-fi-building-814cf55baaeb4931b83a74ebdef9e4a2
+"Cyberpunk Building" by nicolasodorizi (@nicolasodorizi), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-building-ea47fe50149d42298b19a839538737d4
+"Cyberpunk skyscraper" by Artemis (@Artemis26), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-skyscraper-5392c4e6daf944b3a17b43a58b55fe08
+"Building Type 03" by Inditrion Dradnon (@dradnon), CC BY 4.0 -- https://sketchfab.com/3d-models/building-type-03-82454f9ea8e54e07b26f3b4edbc7279e
+"GBuilding Type 02" by Inditrion Dradnon (@dradnon), CC BY 4.0 -- https://sketchfab.com/3d-models/gbuilding-type-02-8d366e53728d4b19acbecd94415a4d5b
+"Sci Fi Pyramid" by CGBlender (@CGBlender), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-pyramid-834bce4eadbf48deb574811c6f984dbc
+"G1 Cyberpunk Building" by AL3K (@alexinsouratselou), CC BY 4.0 -- https://sketchfab.com/3d-models/g1-cyberpunk-building-2c0bfaf01ac3433181acd6e59ce47119
+"Sci-Fi Building Tower Skyscraper" by Volodymyr Hrushevskiy (@HrushevskiyVolodymyr), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-building-tower-skyscraper-c2ab95f390e4452dbc3a033b5a34e1c1
+"Futuristic Neon City Sketch" by Zen Apricorna (@zenartdesign), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-neon-city-sketch-9b6c4c2c58b14d59a0adde635b7f9762
+"Future Building" by Josue GZ (@josuegz), CC BY 4.0 -- https://sketchfab.com/3d-models/future-building-36cfb8b9554c497ebf65089bbdb7d8b3
+"SciFiTower" by vslite (@vslite), CC BY 4.0 -- https://sketchfab.com/3d-models/scifitower-9abafc222f0d423e901f5476b9e14c25
+"[FREE] Scifi Towers in 2 Colors!" by voloskyscape (@voloskyscape), CC BY 4.0 -- https://sketchfab.com/3d-models/free-scifi-towers-in-2-colors-20e4454323d94a0bb4f2a5c3c208096c
+"Mega Tower" by R-LAB (@rakshaan), CC BY 4.0 -- https://sketchfab.com/3d-models/mega-tower-a35a969260e941d381bfb30fdbcca521
+"Tall Sci-fi Building" by GetDeadEntertainment (@GetDeadEntertainment), CC BY 4.0 -- https://sketchfab.com/3d-models/tall-sci-fi-building-4e23b16c44dd412db7bcaf84ee40f210
+"Low poly - Sci-fi Cyberpunk Futurisic [FREE]" by IQINISO (@iqiniso), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-sci-fi-cyberpunk-futurisic-free-d7a1ce6bf66e40cc9872fb38230cb86f
+"Revolving Parametric Tower" by Ayman.Ibrahim (@Ayman.Ibrahim), CC BY 4.0 -- https://sketchfab.com/3d-models/revolving-parametric-tower-3d9a9506a57148608890ad9d7b33c1a2
+"Spiral Skyscraper" by ItzLukeStorm (@ItzLukeStorm), CC BY 4.0 -- https://sketchfab.com/3d-models/spiral-skyscraper-a3f032357e3843c9b32365643298435b
+"Low Cyberpunk Building" by JackSpector_Ink (@Sp3ctor_Ink), CC BY 4.0 -- https://sketchfab.com/3d-models/low-cyberpunk-building-c344904c020742d78a6967ce04faae95
+"SKVOT Lesson / Low-Poly Futuristic Building" by jsandorblendercourse (@jsandorblendercourse), CC BY 4.0 -- https://sketchfab.com/3d-models/skvot-lesson-low-poly-futuristic-building-38440b9950304dfd99f92d5eb4f04d8c
+"Futuristic low poly building" by oconop23 (@oconop23), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-low-poly-building-a1c32c5713044bc2a62ae623e004a807
+"Cable Suspended Luxury Hotel. Proj.006" by r_msp_c (@rmspc), CC BY 4.0 -- https://sketchfab.com/3d-models/cable-suspended-luxury-hotel-proj-006-43283d2cd1764194a538e2cb62eb35af
+"Futuristic House" by Moonboy (@Alufuredo), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-house-4be7ce7973e74ee4ab9bacedc17998e6
+"Industrial Building" by Jonathan (@jonathan.leclerc96), CC BY 4.0 -- https://sketchfab.com/3d-models/industrial-building-432b531ebd1e4599ad5f266bc7211f05
+"Large Fission/Fusion Hybrid Reactor" by Lynxon (@lynxon), CC BY 4.0 -- https://sketchfab.com/3d-models/large-fission-fusion-hybrid-reactor-c331666c133042c1a73c438857ce0149
+"Sci-fi Factory" by Lolla (@alysa_sim), CC BY 4.0 -- https://sketchfab.com/3d-models/sci-fi-factory-7949dd7a33a0422bbebd194e2865c59a
+"Matter Factory Building" by tjc997 (@tjc997), CC BY 4.0 -- https://sketchfab.com/3d-models/matter-factory-building-c80eb84e3ce84450a64e4eaaed65e34b
+"Low poly futuristic oil rig building" by Alexandr33D (@vympel), CC BY 4.0 -- https://sketchfab.com/3d-models/low-poly-futuristic-oil-rig-building-3cc910d39ddb4363b6219f488b8b9cce

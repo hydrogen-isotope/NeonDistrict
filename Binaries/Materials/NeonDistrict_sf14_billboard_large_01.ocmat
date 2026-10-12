@@ -1,0 +1,27 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Metal Billboard Advertising Single Sided [Free]" by JoTrain The Aussie (Jotrain), CC BY 4.0 -- https://sketchfab.com/3d-models/metal-billboard-advertising-single-sided-free-33c164cf9e4346d1b48eb0c49cb2643f
+NAME NeonDistrict_sf14_billboard_large_01
+SHADER standard
+BLEND masked 0.3
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.05 = about 1,670 cd/m2:
+# floodlight lenses (three small white texels at the bottom edge of the board), thin frame edge lines and lamp glare sprite; same material as the face, so the strength is shared.
+PARAM emissiveFactor 0.05 0.05 0.05
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_0-1.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Image_1-4.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/Image_3-3.png} uv0 normal
+TEX emissive {path:Textures/NeonDistrict/Image_2-1.png} uv0 sRGB

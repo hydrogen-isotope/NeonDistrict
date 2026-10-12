@@ -1,0 +1,26 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Futuristic Building Props" by VertaScan (@VertaScan), CC BY 4.0 -- https://sketchfab.com/3d-models/futuristic-building-props-7552b8d7fb4f48219d571c57f19f138c
+NAME NeonDistrict_sf184_GLAZE__n2
+SHADER standard
+# Opaque, not blended: its alpha is 1 almost everywhere, and blended emitters are invisible to GI.
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 0.894479
+PARAM metallicFactor 0.93105
+PARAM roughnessFactor 0.617523
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# night windows: rooms painted into the facade texture, about 1,000 cd/m2 at a full-white texel.
+PARAM emissiveFactor 0.03 0.03 0.03
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/GLAZE_baseColor.png} uv0 sRGB
+TEX emissive {path:Textures/NeonDistrict/sf184_GLAZE_e2.png} uv0 sRGB

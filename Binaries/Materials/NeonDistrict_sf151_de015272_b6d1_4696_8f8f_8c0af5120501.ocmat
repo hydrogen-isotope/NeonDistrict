@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Grey Japanease Apartment" by Kasuga𓅂 (@kasuga), CC BY 4.0 -- https://sketchfab.com/3d-models/grey-japanease-apartment-8589efeb25284d709934497e02a25421
+NAME NeonDistrict_sf151_de015272_b6d1_4696_8f8f_8c0af5120501
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.900025
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/de015272-b6d1-4696-8f8f-8c0af5120501_baseColor.png} uv0 sRGB

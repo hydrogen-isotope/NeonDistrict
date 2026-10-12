@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Cyberpunk Diner Sign (Japanese)" by LukeMarsh201, CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-diner-sign-japanese-6ffce0f168534501bdd9199847d57831
+NAME NeonDistrict_sf12_Sign
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf12_Image_8.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf12_Image_9.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf12_Image_10.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf12_Image_9.png} uv0 linear

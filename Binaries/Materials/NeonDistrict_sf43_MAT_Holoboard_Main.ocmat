@@ -1,0 +1,28 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "HoloBoard" by TooManyDemons (@toomanydemons), CC BY 4.0 -- https://sketchfab.com/3d-models/holoboard-0644f1b2450543e2a96d5eae496798b6
+NAME NeonDistrict_sf43_MAT_Holoboard_Main
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.06 = about 2,000 cd/m2:
+# frame status lights: about 1.7% of the frame atlas is emissive (pale blue-white, about 0.85 / 0.9 / 0.9): mainly the pill-shaped LED lozenges on the side rails plus a few small indicator patches on the lower structure; the rest of the frame emissive map is black. Same material as the frame, so a strength here applies to the whole frame material but only those texels glow. Indicator level, not a lamp.
+PARAM emissiveFactor 0.06 0.06 0.06
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/MAT_Holoboard_Main_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/MAT_Holoboard_Main_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/MAT_Holoboard_Main_normal.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/MAT_Holoboard_Main_metallicRoughness.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/MAT_Holoboard_Main_emissive.png} uv0 sRGB

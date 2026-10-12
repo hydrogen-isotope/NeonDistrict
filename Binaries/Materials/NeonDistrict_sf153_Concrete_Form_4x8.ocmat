@@ -1,0 +1,24 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "small apartment 2   skeleton in japan" by makoto_jww (@makoto_jww), CC BY 4.0 -- https://sketchfab.com/3d-models/small-apartment-2-skeleton-in-japan-1576197aeacb4795b31ae8e357ba3b9f
+NAME NeonDistrict_sf153_Concrete_Form_4x8
+SHADER standard
+BLEND opaque
+CULL back
+FLAGS twosided=0 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.6
+# No glow: the spec asked for a flat emissive factor over a TEXTURED wall (windows painted into the diffuse), which lit
+# the whole building as one white slab; its lit windows are rooms in a separate emissive map / pane mesh (nd_sf_night.py).
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Concrete_Form_4x8_baseColor.jpg} uv0 sRGB

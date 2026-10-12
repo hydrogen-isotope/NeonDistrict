@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Passenger Car(Rail)" by Lyskilde (@longtail), CC BY 4.0 -- https://sketchfab.com/3d-models/passenger-carrail-1ec9ef29c1604487a2f498df7e744c88
+NAME NeonDistrict_sf53_Bricks
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 0.881079
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Bricks_baseColor.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Bricks_metallicRoughness.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/Bricks_normal.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/Bricks_metallicRoughness.png} uv0 linear

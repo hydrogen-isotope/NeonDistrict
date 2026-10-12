@@ -1,0 +1,31 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Traffic Cones" by NotAnotherApocalypticCo. (@notanotherapocalypticco), CC BY 4.0 -- https://sketchfab.com/3d-models/traffic-cones-e03b1d2dfdc0416bb8324d15573ea60c
+NAME NeonDistrict_sf25_Cones_Mat_wEmissive
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.4 = about 13,330 cd/m2:
+# amber lens of the warning-lamp collar; only Collar_2.002 (on cone_medium_lamp_on) and Collar_1.002 (on barricade_panel_lamp_on) use it; the barricade lamp has a lens on BOTH faces.
+PARAM emissiveFactor 0.4 0.4 0.4
+# THE LIGHT IT CASTS: every draw with this material is a small sphere light (at most 32 lit per
+# frame); 1 multiplies what its own glow over its size physically casts.
+PARAM lightIntensity 1
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf25_Image_0.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/sf25_Image_1.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/sf25_Image_2.png} uv0 normal
+TEX occlusion {path:Textures/NeonDistrict/sf25_Image_1.png} uv0 linear
+TEX emissive {path:Textures/NeonDistrict/sf25_Image_5.png} uv0 sRGB

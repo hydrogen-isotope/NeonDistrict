@@ -1,0 +1,22 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "G1 Cyberpunk Building" by AL3K (@alexinsouratselou), CC BY 4.0 -- https://sketchfab.com/3d-models/g1-cyberpunk-building-2c0bfaf01ac3433181acd6e59ce47119
+NAME NeonDistrict_sf208_Color_B04
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 0.355663 0.355663 0.355663 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 0.797644
+# Emissive in engine units: 1 = a white wall in full sun, about 33,000 cd/m2. Peak 0.03 = about 1,000 cd/m2:
+# dark trim with a dim blue emissive (0.04,0.06,0.26).
+PARAM emissiveFactor 0.00465 0.006443 0.03
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

@@ -1,0 +1,23 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Full Gameready City Buildings III [HongKong]" by abhayexe (@abhayexe), CC BY 4.0 -- https://sketchfab.com/3d-models/full-gameready-city-buildings-iii-hongkong-03a5255bb9624d4e82cb8e15e0070b70
+NAME NeonDistrict_sf107_building3win_51
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 0
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 0.1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/sf107_building3win_51_baseColor_db.png} uv0 sRGB
+TEX normal {path:Textures/NeonDistrict/building3win_51_normal.jpg} uv0 normal

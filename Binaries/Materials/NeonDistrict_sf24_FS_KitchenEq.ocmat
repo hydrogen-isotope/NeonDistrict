@@ -1,0 +1,25 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Chinese Food Stall in London" by Pukka Films (@pukkafilms), CC BY 4.0 -- https://sketchfab.com/3d-models/chinese-food-stall-in-london-4c860ac992c74547b3dbcb802b52ea98
+NAME NeonDistrict_sf24_FS_KitchenEq
+SHADER standard
+# Opaque, not blended: its alpha is 1 almost everywhere, and blended emitters are invisible to GI.
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200
+
+TEX baseColor {path:Textures/NeonDistrict/Image_4-6.png} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/Image_5-7.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/Image_6-5.png} uv0 normal

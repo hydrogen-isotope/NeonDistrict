@@ -1,0 +1,21 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: "Cyberpunk City #2" by John Doe (@born2012), CC BY 4.0 -- https://sketchfab.com/3d-models/cyberpunk-city-2-ff9ee34073fd409d8ef947dc85ca0033
+NAME NeonDistrict_sf195_Material_015
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=0
+
+PARAM baseColorFactor 1 1 1 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+# No glow: the source carried an emissive factor with no (or an all-black) emissive map.
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+PARAM uvTiling 200

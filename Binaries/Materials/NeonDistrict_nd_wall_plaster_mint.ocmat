@@ -1,0 +1,26 @@
+OCMAT 1
+# Written by the Aver Engine editor.
+# NeonDistrict: Poly Haven (CC0) or generated for this level
+NAME NeonDistrict_nd_wall_plaster_mint
+SHADER standard
+BLEND opaque
+CULL none
+FLAGS twosided=1 castshadow=1 worlduv=1
+
+# plaster painted mint: a linear tint on the texture, written sRGB-encoded like every .ocmat factor.
+PARAM baseColorFactor 0.762 0.8932 0.8164 1
+PARAM metallicFactor 1
+PARAM roughnessFactor 1
+PARAM emissiveFactor 0 0 0
+PARAM normalScale 1
+PARAM occlusionStrength 1
+PARAM reflectance 0.04
+PARAM f90 1
+PARAM ior 1.5
+PARAM transmission 0
+# World-aligned tiling: one texture repeat per 300 cm, whatever the mesh UVs say.
+PARAM uvTiling 300
+
+TEX baseColor {path:Textures/NeonDistrict/painted_plaster_wall_diff_2k.jpg} uv0 sRGB
+TEX metalRough {path:Textures/NeonDistrict/ph_painted_plaster_wall_orm.png} uv0 linear
+TEX normal {path:Textures/NeonDistrict/painted_plaster_wall_nor_gl_2k.jpg} uv0 normal
